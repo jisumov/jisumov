@@ -9,7 +9,7 @@
 ## Projects
 
 ### 🏗️ 40:2 Labs
-An initiative to build and document cybersecurity environments from the ground up, deploying defensive infrastructure to simulate real-world security operations.
+An initiative to build and document cybersecurity environments from the ground up. Each lab aims at deploying defensive infrastructure to simulate real-world security operations, with controlled attacks for learning purposes.
 
 <div>
 <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -22,7 +22,7 @@ An initiative to build and document cybersecurity environments from the ground u
 <a href="https://jisu.mov/projects/40-2-labs"><img src="https://img.shields.io/badge/-Visit_Page_%E2%86%97-2EA44F?style=for-the-badge" /></a>
 
 ### ⛏️ Diggy Diggy SOC
-Walkthroughs focused on analyzing and resolving Security Operations Center (SOC) incidents from platforms like LetsDefend, TryHackMe, and Hack The Box.
+Various series of walkthroughs focused on analyzing and resolving Security Operations Center (SOC) incidents from learning apps including LetsDefend, TryHackMe and Hack The Box, following the NIST 800-61 framework.
 
 <div>
 <img src="https://img.shields.io/badge/-LetsDefend-04021B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAuCAYAAACf1cHhAAACCUlEQVR4nO1a27KDIAxEp///y56XMsPEXDYXxDJn39QEdgPRkLa1hbiu61o5/7lq4i58ZQDKxF9fRH1n2FooX3mEHGdj+WWCK6FEPCWlER3vH8dxaONY97OYmvM0CJxwGgDNnxsnA3FiD6gohBy66tS+22lBQ5EeILKNJeKcvTZmNgBTt/3xhXTN2aO2reW3vxk5bfXos4qtiAAVbfEJr/wq4ZVzfSoGeVK4NacnFUzx4/ZeIXImltX2b8C/+B2BpKgpfvWZOwqEt/jC+1XRI6xqMFWOvhmIlgM1/FVo2thtv4PoDnoaHHGOBh075PsIqRQ/6Q3JYReMOk/pQWt7BEB7499yHu3EoBPSsZ/wR33Nk1GWMEok64/won63Cs8rXGoyWo1J7To6pxep/pi3ocHZe8bwBpnzuxU5mgFKpCI9omNEA3BahKKTe9PB8x6IfJVGn84tfaS1SHNBoD6cmO4Teadw4Di4KzwrPSTf7CpaAUA5j36f8QZdMY4cCouYNa5Wk3ugLRbUAeWIvOnwI/Gy+LI5/yZhUSALtW0PD0FI/A47o7Wg+IrScjZKurfZVY7U4VW1uwWojpaOuVJgoiUsWgugPtbnOv1jX7QB0sl5+geZZkvoPB9F9MyeEejlk85nbSLuW4ukRNTPi2mfLG8tromcVWGW/DkhC1RIdX2xTLx2rn+qjvgD6RU0I/dTQu0AAAAASUVORK5CYII=" />
@@ -34,7 +34,7 @@ Walkthroughs focused on analyzing and resolving Security Operations Center (SOC)
 <a href="https://jisu.mov/projects/diggy-diggy-soc"><img src="https://img.shields.io/badge/-Visit_Page_%E2%86%97-2EA44F?style=for-the-badge" /></a>
 
 ### ⚓ KQLhauled
-KC7-based journey that solves cybersecurity challenges using Kusto Query Language (KQL) to investigate simulated incidents and uncover malicious activity from raw data.
+KC7-based journey that addressess cybersecurity challenges using Kusto Query Language (KQL) to investigate simulated incidents and uncover malicious activity from raw data, reinforcing analytical thinking and decisions.
 
 <div>
 <img src="https://img.shields.io/badge/-KC7-012950?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBHZW5lcmF0b3I6IHZpc2lvbmNvcnRleCBWVHJhY2VyIDAuNi4xMiAtLT4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjUyIj4KPHBhdGggZD0iTTAgMCBDNS4yIDAuNTggOS4yNCAyLjI5IDEzLjg4IDQuNTYgQzE0LjU2IDQuODkgMTUuMjUgNS4yMiAxNS45NiA1LjU2IEMxNy42NCA2LjM3IDE5LjMyIDcuMTggMjEgOCBDMTUuMTkgMTMuODEgMTUuMTkgMTMuODEgMTMgMTUgQzcuOTkgMTQuODEgNC4zNCAxMy40NCAwIDExIEMwIDcuMzcgMCAzLjc0IDAgMCBaICIgZmlsbD0iI0Q1NEYwQyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjUsMCkiLz4KPHBhdGggZD0iTTAgMCBDMCAzLjk2IDAgNy45MiAwIDEyIEMtNy40NSAxNS41MSAtNy40NSAxNS41MSAtMTIgMTUgQy0xNC4yNCAxMy42OSAtMTQuMjQgMTMuNjkgLTE2LjMxIDEyIEMtMTcuMDEgMTEuNDQgLTE3LjcxIDEwLjg5IC0xOC40MyAxMC4zMSBDLTE4Ljk1IDkuODggLTE5LjQ2IDkuNDUgLTIwIDkgQy0xNi43MiA2LjMyIC0xMy4yOCA0LjU4IC05LjQ0IDIuODEgQy04LjMgMi4yOCAtNy4xNyAxLjc1IC02IDEuMjEgQy0zIDAgLTMgMCAwIDAgWiAiIGZpbGw9IiNFMjUxMDgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIyLDApIi8+CjxwYXRoIGQ9Ik0wIDAgQzEuNjEgMS42OCAxLjYxIDEuNjggMy4xOSAzLjg4IEMzLjQ1IDQuMjMgMy40NSA0LjIzIDQuNzkgNi4wNSBDNiA4IDYgOCA2IDEwIEMzLjAzIDExLjY1IDAuMDYgMTMuMyAtMyAxNSBDLTYuODkgMTAuNzcgLTkuNjEgNy43IC0xMSAyIEMtMy4zOCAwIC0zLjM4IDAgMCAwIFogIiBmaWxsPSIjRDk1MDBCIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNSwyOSkiLz4KPHBhdGggZD0iTTAgMCBDNy42MiAwLjg4IDcuNjIgMC44OCAxMSAyIEM5LjYxIDcuNyA2Ljg5IDEwLjc3IDMgMTUgQzAuMDMgMTMuMDIgLTIuOTQgMTEuMDQgLTYgOSBDLTQuMDIgNi4wMyAtMi4wNCAzLjA2IDAgMCBaICIgZmlsbD0iI0RBNTAwQiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzMsMjkpIi8+CjxwYXRoIGQ9Ik0wIDAgQy0wLjI4IDIuMjcgLTAuNTggNC41NCAtMC44OCA2LjgxIEMtMS4wNCA4LjA4IC0xLjIgOS4zNCAtMS4zNyAxMC42NCBDLTIgMTQgLTIgMTQgLTQgMTcgQy03LjMgMTYuMDEgLTEwLjYgMTUuMDIgLTE0IDE0IEMtMTMuMjggNy4wNCAtMTMuMjggNy4wNCAtOS43MSA0LjEzIEMtMi44NSAwIC0yLjg1IDAgMCAwIFogIiBmaWxsPSIjRDk1MDBCIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0OSwxMikiLz4KPHBhdGggZD0iTTAgMCBDNC4xNSAxLjQ3IDcuNjIgMy4xNSAxMSA2IEMxMi4wOSA4LjcgMTIuNTIgMTEuMSAxMyAxNCBDMTEuMzUgMTQuNSAxMS4zNSAxNC41IDMgMTcgQy0wLjA0IDExLjE4IC0wLjM1IDYuNTIgMCAwIFogIiBmaWxsPSIjREI1MDBCIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDEyKSIvPgo8cGF0aCBkPSJNMCAwIEMwLjc2IDAuNDkgMS41MyAwLjk5IDIuMzEgMS41IEMzLjI0IDIuMDQgNC4xNyAyLjU3IDUuMTIgMy4xMiBDNS44NSAzLjU4IDYuNTcgNC4wMyA3LjMxIDQuNSBDNi4yOSA3LjIgNS4zNCA4LjQ4IDMuMDYgMTAuMzEgQy0wLjQ0IDExLjgyIC0yLjA3IDExLjYzIC01LjY5IDEwLjUgQy04LjU2IDguNTYgLTguNTYgOC41NiAtMTAuNjkgNi41IEMtMTAuNjkgNS44NCAtMTAuNjkgNS4xOCAtMTAuNjkgNC41IEMtNy40NyAxLjcyIC00LjMxIC0wLjggMCAwIFogIiBmaWxsPSIjRDI0RTBEIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNS42ODc1LDQwLjUpIi8+Cjwvc3ZnPgo=" />
@@ -43,7 +43,7 @@ KC7-based journey that solves cybersecurity challenges using Kusto Query Languag
 <a href="https://jisu.mov/projects/kqlhauled"><img src="https://img.shields.io/badge/-Visit_Page_%E2%86%97-2EA44F?style=for-the-badge" /></a>
 
 ### 🐍 Daemons
-A growing toolbox of Python OSINT scripts built to accelerate investigations, triaging IOCs and enriching indicators (IPs, URLs, domains, hashes) across diverse log sources and multiple threat-intelligence APIs.
+Growing toolbox of Python OSINT scripts geared to accelerate investigations, triaging IOCs / IOAs and enriching observables (IPs, URLs, domains, hashes, etc.) based on enterprise log sources and open threat-intelligence APIs.
 
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
