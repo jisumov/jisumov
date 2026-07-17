@@ -9,7 +9,7 @@
 ## Projects
 
 ### 🏗️ 40:2 Labs
-An initiative to build and document cybersecurity environments from the ground up. Each lab aims at deploying defensive infrastructure to simulate real-world security operations, with controlled attacks for learning purposes.
+An initiative to build and document cybersecurity environments from the ground up. Each lab aims at deploying defensive infrastructure to simulate real-world security operations, with calculated attacks for learning purposes.
 
 <div>
 <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -43,7 +43,7 @@ KC7-based journey that addressess cybersecurity challenges using Kusto Query Lan
 <a href="https://jisu.mov/projects/kqlhauled"><img src="https://img.shields.io/badge/-Visit_Page_%E2%86%97-2EA44F?style=for-the-badge" /></a>
 
 ### 🐍 Daemons
-Growing toolbox of Python OSINT scripts geared to accelerate investigations, triaging IOCs / IOAs and enriching observables (IPs, URLs, domains, hashes, etc.) based on enterprise log sources and open threat-intelligence APIs.
+Growing toolbox of Python OSINT scripts adapted to accelerate investigations, triaging IOCs/IOAs and enriching observables (e.g., IPs, URLs, domains, hashes) based on enterprise log sources and open threat-intelligence APIs.
 
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
