@@ -42,7 +42,7 @@ KC7-based journey that addressess cybersecurity challenges using Kusto Query Lan
 </div>
 <a href="https://jisu.mov/projects/kqlhauled"><img src="https://img.shields.io/badge/-Visit_Page_%E2%86%97-2EA44F?style=for-the-badge" /></a>
 
-### 🐍 Daemons
+### 🐍 SOC I/O
 Growing toolbox of Python OSINT scripts adapted to accelerate investigations, triaging IOCs/IOAs and enriching observables (e.g., IPs, URLs, domains, hashes) based on enterprise log sources and open threat-intelligence APIs.
 
 <div>
@@ -53,4 +53,4 @@ Growing toolbox of Python OSINT scripts adapted to accelerate investigations, tr
 <img src="https://img.shields.io/badge/-urlscan.io-5C4EE5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE3IDIydi0yaDN2LTNoMnYzLjVjMCAuMzktLjE2Ljc0LS40NiAxLjA0cy0uNjUuNDYtMS4wNC40NnpNNyAyMkgzLjVjLS4zOSAwLS43NC0uMTYtMS4wNC0uNDZTMiAyMC44OSAyIDIwLjVWMTdoMnYzaDN6TTE3IDJoMy41Yy4zOSAwIC43NC4xNiAxLjA0LjQ2cy40Ni42NS40NiAxLjA0VjdoLTJWNGgtM3pNNyAydjJINHYzSDJWMy41YzAtLjM5LjE2LS43NC40Ni0xLjA0UzMuMTEgMiAzLjUgMnptMy41IDRDMTMgNiAxNSA4IDE1IDEwLjVjMCAuODgtLjI1IDEuNy0uNjkgMi40bDMuMjYgMy4yNmwtMS40MSAxLjQxbC0zLjI2LTMuMjZjLS43LjQ0LTEuNTIuNjktMi40LjY5QzggMTUgNiAxMyA2IDEwLjVTOCA2IDEwLjUgNm0wIDJhMi41IDIuNSAwIDAgMCAwIDVhMi41IDIuNSAwIDAgMCAwLTUiLz48L3N2Zz4=" />
 <img src="https://img.shields.io/badge/-RDAP-546E7A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE2LjM2IDE0Yy4wOC0uNjYuMTQtMS4zMi4xNC0ycy0uMDYtMS4zNC0uMTQtMmgzLjM4Yy4xNi42NC4yNiAxLjMxLjI2IDJzLS4xIDEuMzYtLjI2IDJtLTUuMTUgNS41NmMuNi0xLjExIDEuMDYtMi4zMSAxLjM4LTMuNTZoMi45NWE4LjAzIDguMDMgMCAwIDEtNC4zMyAzLjU2TTE0LjM0IDE0SDkuNjZjLS4xLS42Ni0uMTYtMS4zMi0uMTYtMnMuMDYtMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMnMtLjA3IDEuMzQtLjE2IDJNMTIgMTkuOTZjLS44My0xLjItMS41LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MSAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZNOCA4SDUuMDhBNy45MiA3LjkyIDAgMCAxIDkuNCA0LjQ0QzguOCA1LjU1IDguMzUgNi43NSA4IDhtLTIuOTIgOEg4Yy4zNSAxLjI1LjggMi40NSAxLjQgMy41NkE4IDggMCAwIDEgNS4wOCAxNm0tLjgyLTJDNC4xIDEzLjM2IDQgMTIuNjkgNCAxMnMuMS0xLjM2LjI2LTJoMy4zOGMtLjA4LjY2LS4xNCAxLjMyLS4xNCAycy4wNiAxLjM0LjE0IDJNMTIgNC4wM2MuODMgMS4yIDEuNSAyLjU0IDEuOTEgMy45N2gtMy44MmMuNDEtMS40MyAxLjA4LTIuNzcgMS45MS0zLjk3TTE4LjkyIDhoLTIuOTVhMTUuNyAxNS43IDAgMCAwLTEuMzgtMy41NmMxLjg0LjYzIDMuMzcgMS45IDQuMzMgMy41Nk0xMiAyQzYuNDcgMiAyIDYuNSAyIDEyYTEwIDEwIDAgMCAwIDEwIDEwYTEwIDEwIDAgMCAwIDEwLTEwQTEwIDEwIDAgMCAwIDEyIDIiLz48L3N2Zz4=" />
 </div>
-<a href="https://github.com/jisumov/daemons"><img src="https://img.shields.io/badge/-Source_Code_%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jisumov/socio"><img src="https://img.shields.io/badge/-Source_Code_%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
